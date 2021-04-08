@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://cjq214.github.io/pictures/wallpaper/index.html</loc>
+    <loc>http://cjq214.github.io/artitalk/index.html</loc>
     
     <lastmod>2021-04-08</lastmod>
     
@@ -10,6 +10,13 @@
   
   <url>
     <loc>http://cjq214.github.io/updated_log/index.html</loc>
+    
+    <lastmod>2021-04-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://cjq214.github.io/pictures/wallpaper/index.html</loc>
     
     <lastmod>2021-04-08</lastmod>
     
@@ -30,14 +37,14 @@
   </url>
   
   <url>
-    <loc>http://cjq214.github.io/2013/07/14/11/</loc>
+    <loc>http://cjq214.github.io/2013/07/14/hello-world/</loc>
     
     <lastmod>2021-04-06</lastmod>
     
   </url>
   
   <url>
-    <loc>http://cjq214.github.io/2013/07/14/hello-world/</loc>
+    <loc>http://cjq214.github.io/2013/07/14/11/</loc>
     
     <lastmod>2021-04-06</lastmod>
     
